@@ -1,3 +1,5 @@
+/*Angular-trick 0.1.0 ,@license MIT, (c) 2014*/
+
 (function(window, argular, undefined) {'use strict';
 	angular.module('angularTrick',[])
 			   .provider('trick',function(){
